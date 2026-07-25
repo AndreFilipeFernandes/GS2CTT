@@ -1,0 +1,31 @@
+CODESYS_TEST1:
+  - Simplest grafcet elements (normal steps, initial steps, transitions and continuous actions)
+CODESYS_TEST2:
+  - Different transition types (source, sink)
+  - Parallelizations and Synchronizations
+  - Selection
+  - Multiple initial steps
+CODESYS_TEST3:
+  - More action types (except forcing orders)
+  - Multiple actions in same step
+CODESYS_TEST4:
+  - Macro step and associated expansions
+  - Multiple macro steps and associated expansions
+  - Actions associated to macro steps
+  - Actions within macro step expansions
+  - Access to step view multiple transitions
+CODESYS_TEST5:
+  - Enclosing steps (normal and initial) and associated expansions
+  - Step expansion hierarchies (3 layers)
+  - Actions associated to enclosing steps
+  - Actions within enclosing step expansions
+CODESYS_TEST6:
+  - Forcing orders
+  - Multiple actions in same step (with forcing order)
+  - Partial grafcet hierarchies associated to forcing order commands
+CODESYS_TEST7:
+  - Different transition conditions
+GRAFCET_STANDARD_ANNEX_B_Version1:
+  - See Annex B of the GRAFCET standard document (up to figure B.6)
+GRAFCET_STANDARD_ANNEX_B_Version2:
+  - See Annex B of the GRAFCET standard document (figure B.6)
