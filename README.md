@@ -5,8 +5,7 @@ Toolchain that translates grafcets built in Grafcet-Studio into IEC 61131-3 comp
 1. Download "Toolchain.zip" from the latest release.
 2. Unzip "Toolchain.zip".
 3. Add desired Grafcet-Studio .grafcet file into the "shared" directory (make sure to fully delete this file's contents between uses).
-4. **If on Windows** run "toolchain_run.bat".
-
+4. **If on Windows** run "toolchain_run.bat". <br>
    **If on Linux** run "toolchain_run.sh", ensuring you first have Wine installed.
 6. Your IEC 61131-3 compliant files are now ready for use in the "shared" directory.
 
